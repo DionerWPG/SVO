@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Air rebalance",
+        "uniques": ["[+30] Range"],
+        "unitTypes": ["Fighter", "Bomber", "Missile"]
+    }
+]
